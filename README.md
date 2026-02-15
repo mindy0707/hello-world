@@ -1,2 +1,1 @@
-# hello-world
-Beginner 
+HI my name is Mindy and I am a software engineer.
